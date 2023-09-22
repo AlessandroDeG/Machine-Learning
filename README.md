@@ -9,6 +9,6 @@ Thanks to Prof. Michael Wand and Prof. Jürgen Schmidhuber for this challenging 
 
 -MLP framework implementation, NO PYTORCH/TENSROFLOW. (+MNIST)
 
--Probabilistic modeling + Reinforcement Learning exercizes.
+-Probabilistic modeling + Reinforcement Learning exercises.
 
 
